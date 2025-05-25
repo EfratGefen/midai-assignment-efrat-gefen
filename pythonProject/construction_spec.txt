@@ -1,0 +1,14 @@
+Wall Type A:
+Interior partition wall constructed from 12.5mm gypsum plasterboard mounted on a 50mm metal stud frame. Insulated with 40mm mineral wool. Finish with white paint. Fire rating: 60 minutes. Use: internal office partitions. Standard: EN 520 Type A.
+
+Floor Slab B:
+Reinforced concrete floor slab, 200mm thick, with dual-layer steel mesh reinforcement. Top surface to be polished and sealed with epoxy. Load capacity: 5kN/m². Use: commercial building floors. Standard: Eurocode 2.
+
+Roof Panel C:
+Sandwich panel consisting of two layers of galvanized steel (0.6mm each) with a 100mm polyurethane core. Panel width: 1.2 meters. Thermal resistance: R-5. Use: industrial warehouse roofing. Compliance: ISO 6946.
+
+Window Glazing D:
+Double-glazed unit with 6mm tempered glass outer layer and 4mm laminated inner layer. Air gap: 12mm. Low-E coating on inner surface. Total U-value: 1.2 W/m²K. Use: residential building façade. Standard: EN 1279.
+
+Foundation E:
+Poured concrete strip foundation, 600mm wide and 900mm deep. Use C25/30 concrete. Includes two Ø16mm rebars along length. Use: low-rise building foundations. Standard: BS 8500.

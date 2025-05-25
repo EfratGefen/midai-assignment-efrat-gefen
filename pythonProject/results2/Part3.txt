@@ -1,0 +1,13 @@
+Base image: python:3.10-slim.
+
+Installed dependencies: ultralytics, opencv-python, openai
+Added both Part 1 and Part 2 scripts under /app.
+
+Defined CMD to run Part 1 followed by Part 2.
+
+Used /app/results for output, mapped to host with a Docker volume.
+
+The output was mostly accurate, especially with well-formatted specs.
+
+I had to refine the prompt to ensure consistency in key naming and nested structures.
+

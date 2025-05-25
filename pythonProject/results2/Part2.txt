@@ -1,0 +1,14 @@
+I used GPT to convert a structured spec text into JSON format.
+
+The prompt requested material types, dimensions, usage, and standards.
+
+The input included five construction elements with clear technical details.
+
+The model was guided to output a clean, consistent specifications.json.
+
+
+
+The output was highly accurate due to the clear structure of the input.
+
+Minor prompt tweaks were needed to ensure consistent field naming across items.
+

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Main External Wall",
+    "material": "Reinforced concrete with polyurethane insulation",
+    "thickness": "25 cm + 5 cm insulation",
+    "classification": "load-bearing, exterior",
+    "compliance_standards": ["Standard 755"]
+  },
+  {
+    "name": "Ground Floor Slab",
+    "material": "Concrete with ceramic tile finish",
+    "thickness": "20 cm slab + 60x60 cm tiles",
+    "classification": "floor structure",
+    "compliance_standards": ["Standard 413"]
+  },
+  {
+    "name": "Interior Gypsum Wall",
+    "material": "Gypsum boards",
+    "thickness": "12.5 mm",
+    "classification": "non-load-bearing, interior",
+    "compliance_standards": ["Fire Safety Standard 922"]
+  }
+]

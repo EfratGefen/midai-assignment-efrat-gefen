@@ -1,0 +1,4 @@
+openai
+torch
+opencv-python
+pandas
