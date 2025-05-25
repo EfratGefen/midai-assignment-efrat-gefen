@@ -8,5 +8,6 @@ This Dockerized project runs:
 bash
 
 docker build -t construction-ai .
+
 docker run --rm -v "$(pwd):/app" construction-ai
 
